@@ -1,7 +1,16 @@
+<<<<<<< 6755380572f02c716261847d255ce8691c897eda
 {
     "token": "[YOUR_BOT_TOKEN]",
     "prefix": "!",
     "database": {
         "connectionString": "[YOUR_MONGO_DB_CONNECTION_STRING]"
     }
+=======
+{
+    "token": "[YOUR_BOT_TOKEN]",
+    "prefix": "!",
+    "database": {
+        "connectionString": "[YOUR_MONGO_DB_CONNECTION_STRING]"
+    }
+>>>>>>> First commit
 }
