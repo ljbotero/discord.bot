@@ -1,4 +1,3 @@
-<<<<<<< 6755380572f02c716261847d255ce8691c897eda
 const config = require('./config.json');
 const Discord = require('discord.js');
 const MongoClient = require('mongodb').MongoClient;
@@ -113,7 +112,6 @@ const trick = async function (cmd, message, db, bot, configs, userArgs) {
     } else
         message.channel.send(entities.decode(trick.say));
 }
-=======
 const config = require('./config.json');
 const Discord = require('discord.js');
 const MongoClient = require('mongodb').MongoClient;
@@ -228,4 +226,3 @@ const trick = async function (cmd, message, db, bot, configs, userArgs) {
     } else
         message.channel.send(entities.decode(trick.say));
 }
->>>>>>> First commit
